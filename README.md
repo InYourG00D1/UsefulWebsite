@@ -1,7 +1,7 @@
 # DownloadMovie
 Subtitle Indonesian Only
 
-<table width="190%" class="table">
+<table width="200%" class="table">
 <tr>
 <th>No</th>
 <th>Title </th>
