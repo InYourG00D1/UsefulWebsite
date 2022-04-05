@@ -71,4 +71,9 @@ Thanks For Support: SOUL TEAM CYBER | LOCKNULLXPLOIT
 																	<tr>
 																		<td>20.</td><td><a target="_blank" href="https://10fastfingers.com/typing-test">10Fastfingers</a></td><td>Test your speed in typing.</td>
 																		</tr>
+<tr>
+	<td>21.</td><td><a target="_blank" href="https://www.autodraw.com/">AutoDraw</a></td><td>create freehand doodles and watch them magically transform into beautiful drawings powered by machine learning.</td>
+																</tr><tr>
+	<td>22.</td><td><a target="_blank" href="https://www.autodraw.com/">AutoDraw</a></td><td>create freehand doodles and watch them magically transform into beautiful drawings powered by machine learning.</td>
+																</tr>
 </table>
