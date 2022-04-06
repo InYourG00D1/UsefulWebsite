@@ -89,16 +89,16 @@ Thanks For Support: SOUL TEAM CYBER | LOCKNULLXPLOIT
 	<td>26.</td><td><a target="_blank" href="homestyler.com">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
 																</tr>
 </tr><tr>
-	<td>27.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
+	<td>27.</td><td><a target="_blank" href="http://www.pdfescape.com/">AutoDraw</a></td><td>quickly edit PDF in the browser without Acrobat.</td>
 																</tr>
 																</tr><tr>
-	<td>28.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
+	<td>28.</td><td><a target="_blank" href="https://app.diagrams.net/">AutoDraw</a></td><td>create diagrams, wireframe and flowcharts in the browser.</td>
 																</tr>
 																</tr><tr>
-	<td>29.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
+	<td>29.</td><td><a target="_blank" href="http://www.noteflight.com">AutoDraw</a></td><td>print music sheets, write your own music online ( review).</td>
 																</tr>
 																</tr><tr>
-	<td>30.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
+	<td>30.</td><td><a target="_blank" href="https://www.minutes.io/">AutoDraw</a></td><td>quickly capture effective notes during meetings.</td>
 																</tr>
 																</tr><tr>
 	<td>31.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
