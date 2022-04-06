@@ -74,32 +74,33 @@ Thanks For Support: SOUL TEAM CYBER | LOCKNULLXPLOIT
 <tr>
 	<td>21.</td><td><a target="_blank" href="https://www.autodraw.com/">AutoDraw</a></td><td>create freehand doodles and watch them magically transform into beautiful drawings powered by machine learning.</td>
 																</tr><tr>
-	<td>22.</td><td><a target="_blank" href="https://everytimezone.com/">AutoDraw</a></td><td>a less confusing view of the world time zones.</td>
+	<td>22.</td><td><a target="_blank" href="https://everytimezone.com/">everytimezone</a></td><td>a less confusing view of the world time zones.</td>
 																</tr>
 </tr><tr>
-	<td>23.</td><td><a target="_blank" href="https://e.ggtimer.com/">AutoDraw</a></td><td>a simple online timer for your daily needs.</td>
+	<td>23.</td><td><a target="_blank" href="https://e.ggtimer.com/">e.ggtimer</a></td><td>a simple online timer for your daily needs.</td>
 																</tr>
 </tr><tr>
-	<td>24.</td><td><a target="_blank" href="http://www.random.org/">AutoDraw</a></td><td>pick random numbers, flip coins, and more.</td>
+	<td>24.</td><td><a target="_blank" href="http://www.random.org/">random</a></td><td>pick random numbers, flip coins, and more.</td>
 																</tr>
 </tr><tr>
-	<td>25.</td><td><a target="_blank" href="http://exif.regex.info/exif.cgi">AutoDraw</a></td><td>find data hidden in your photographs</td>
+	<td>25.</td><td><a target="_blank" href="http://exif.regex.info/exif.cgi">exif.regex.info</a></td><td>find data hidden in your photographs</td>
 																</tr>
 </tr><tr>
-	<td>26.</td><td><a target="_blank" href="homestyler.com">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
+	<td>26.</td><td><a target="_blank" href="homestyler.com">homestyler</a></td><td>pload an image and find similar pictures on the web.</td>
 																</tr>
 </tr><tr>
-	<td>27.</td><td><a target="_blank" href="http://www.pdfescape.com/">AutoDraw</a></td><td>quickly edit PDF in the browser without Acrobat.</td>
+	<td>27.</td><td><a target="_blank" href="http://www.pdfescape.com/">pdfescape</a></td><td>quickly edit PDF in the browser without Acrobat.</td>
 																</tr>
 																</tr><tr>
-	<td>28.</td><td><a target="_blank" href="https://app.diagrams.net/">AutoDraw</a></td><td>create diagrams, wireframe and flowcharts in the browser.</td>
+	<td>28.</td><td><a target="_blank" href="https://app.diagrams.net/">diagrams</a></td><td>create diagrams, wireframe and flowcharts in the browser.</td>
 																</tr>
 																</tr><tr>
-	<td>29.</td><td><a target="_blank" href="http://www.noteflight.com">AutoDraw</a></td><td>print music sheets, write your own music online ( review).</td>
+	<td>29.</td><td><a target="_blank" href="http://www.noteflight.com">noteflight</a></td><td>print music sheets, write your own music online ( review).</td>
 																</tr>
 																</tr><tr>
-	<td>30.</td><td><a target="_blank" href="https://www.minutes.io/">AutoDraw</a></td><td>quickly capture effective notes during meetings.</td>
+	<td>30.</td><td><a target="_blank" href="https://www.minutes.io/">minutes</a></td><td>quickly capture effective notes during meetings.</td>
 																</tr>
+
 																</tr><tr>
 	<td>31.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
 																</tr>
