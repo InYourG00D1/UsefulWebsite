@@ -71,8 +71,9 @@ Thanks For Support: SOUL TEAM CYBER | LOCKNULLXPLOIT
 																	<tr>
 																		<td>20.</td><td><a target="_blank" href="https://10fastfingers.com/typing-test">10Fastfingers</a></td><td>Test your speed in typing.</td>
 																		</tr>
+
 <tr>
-	<td>21.</td><td><a target="_blank" href="https://www.autodraw.com/">AutoDraw</a></td><td>create freehand doodles and watch them magically transform into beautiful drawings powered by machine learning.</td>
+	<td>21.</td><td><a target="_blank" href="https://www.autodraw.com/">animoto</a></td><td>create freehand doodles and watch them magically transform into beautiful drawings powered by machine learning.</td>
 																</tr><tr>
 	<td>22.</td><td><a target="_blank" href="https://everytimezone.com/">everytimezone</a></td><td>a less confusing view of the world time zones.</td>
 																</tr>
@@ -103,30 +104,58 @@ Thanks For Support: SOUL TEAM CYBER | LOCKNULLXPLOIT
 
 																     											
 </tr><tr>
-	<td>32.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
+	<td>32.</td><td><a target="_blank" href="https://imsdb.com/">imsdb</a></td><td>If you're looking for a movie script, IMSDb is where you need to be. It's a great way to get another point of view on your favorite film.</td>
 																</tr>
 																</tr><tr>
-	<td>33.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
+	<td>33.</td><td><a target="_blank" href="https://www.amcharts.com/">amcharts</a></td><td>Free and customizable JavaScript charts, maps, and timelines. There are some delightful images here to use for your presentations or projects.</td>
 																</tr>
-																</tr><tr>
-	<td>34.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
 																</tr>
-																</tr><tr>
-	<td>35.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
-																</tr>
-																</tr><tr>
-	<td>36.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
-																</tr>
-</tr><tr>
-	<td>37.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
-																</tr>
-</tr><tr>
-	<td>38.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
-																</tr>
-																</tr><tr>
-	<td>39.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
-																</tr>
-																</tr><tr>
-	<td>40.</td><td><a target="_blank" href="https://www.labnol.org/reverse/">AutoDraw</a></td><td>pload an image and find similar pictures on the web.</td>
-																</tr>
+                                                                <tr>
+                                                                    <td>34.</td>
+                                                                    <td><a target="_blank" href="https://www.stigc.dk/projects/mutualbackup/">stigc</a></td><td>Keep your important files encrypted and backed up on a friend's computer for free.</td>
+                                                                </tr>
+                                                               <tr> 
+                                                                <td>35.</td>
+                                                                <td><a target="_blank" href="https://www.papertoys.com/">papertoys</a></td><td>Hundreds of free custom-designed paper models that you can print out and fold yourself.</td>
+                                                               </tr>>
+                                                               <tr>
+                                                                <td>36.</td>
+                                                                <td><a target="_blank" href="http://www.websudoku.com/">websudoku</a></td><td>with literally thousands of different combinations.</td>
+                                                               </tr>
+                                                               <tr>
+                                                                <td>37.</td>
+                                                                <td><a target="_blank" href="https://www.miniclip.com/">miniclip</a></td><td>Tons of cute animated games for kids and adults.</td>
+                                                               </tr>
+                                                               <tr>
+                                                                <td>38.</td>
+                                                                <td><a target="_blank" href="https://www.mentalfloss.com/">mentalfloss</a></td><td>Although essentially one of many time-wasting student websites, MentalFloss is good for learning interesting facts from around the world, covering topics such as food, culture and science. Admittedly, its main function may be as a procrastination aid, but you should still learn something.</td>
+                                                               </tr>
+                                                               <tr>
+                                                                <td>40.</td>
+                                                                <td> <a target="_blank" href="https://unplugthetv.com/">unplugthetv</a></td><td>This student resource offers an alternative to TV (and, unfortunately, studying), hosting randomized videos on interesting scientific topics.</td>
+                                                               </tr>
+                                                               <tr>
+                                                                <td>41.</td>
+                                                                <td><a target="_blank" href="http://sleepyti.me/">sleepyti</a></td><td>This site tells you the best times to go to bed if you have to be up at a certain hour – a very useful tool within student life. Taking into account regular sleep cycles, Sleepyti.me can help if you suffer from grogginess in the mornings.</td>
+                                                               </tr>
+                                                               <tr>
+                                                                <td>42.</td>
+                                                                <td> <a target="_blank" href="http://keepmeout.com/en/">keepmeout</a></td><td>If you struggle to stay away from social media when you’re meant to be studying, use KeepMeOut to block certain distracting websites.</td>
+                                                               </tr>
+                                                               <tr>
+                                                                <td>43.</td>
+                                                                <td><a target="_blank" href="http://www.recipepuppy.com/">recipepuppy</a></td><td>RecipePuppy allows you to search for recipes based on the ingredients you already have at home. Lazy students, rejoice</td>
+                                                               </tr>
+                                                               <tr>
+                                                                <td>44.</td>
+                                                                <td><a target="_blank" href="https://www.instructables.com/">instructables</a></td><td>This is one of the most useful online student resources if you like making and fixing things yourself. You can learn anything from how to make spaghetti ice-cream to how to fix a broken shelf.</td>
+                                                               </tr>
+                                                               <tr>
+                                                                <td>45.</td>
+                                                                <td><a target="_blank" href="http://www.buyagift.co.uk/content/foodhealth/index.html">buyagift</a></td><td>This guide will be a lifesaver throughout student life for times when you’re feeling wrung out, stressed or ill. Whatever your ailments, visit this resource to find out what foods to eat to build your immunity and vitality back up.</td>
+                                                               </tr>
+                                                               <tr>
+                                                                <td>46.</td>
+                                                                <td><a target="_blank" href="   "></a></td>
+                                                               </tr>
 </table>
